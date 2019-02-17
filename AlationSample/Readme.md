@@ -1,5 +1,6 @@
 Selenium WebDriver, test automation for web applications
 A getting started test for Amazon website using Selenium WebDriver, test automation for web applications.
+Test Scenarios for this workflow is in "amazon scenarios.xlsx" file.
 
 Language used: Java
 Framework: Page Object Model
